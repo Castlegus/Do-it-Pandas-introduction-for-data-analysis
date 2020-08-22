@@ -13,3 +13,7 @@
 
 ## 교재
 ![데이터 분석을 위한 판다스 입문](https://user-images.githubusercontent.com/69614150/90758238-ab8c2f00-e319-11ea-8c38-fb77c7e8d8c9.jpg)
+
+## 목차
+5장. 데이터 처리하기
+6장. 누락값 처리하기
