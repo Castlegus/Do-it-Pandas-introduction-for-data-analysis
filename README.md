@@ -12,7 +12,13 @@
 복습 과정이기에 기초적인 부분은 건너뛰고 제외하고 5장부터 시작합니다.
 
 #### 아쉬운점
-일반적으로 axis = 0 은 행 방향, axis = 1은 열 방향인데 책에서 이를 모호하게 풀어 설명하여 이해가 힘든 부분이 있었습니다.
+- 일반적으로 axis = 0 은 행 방향, axis = 1은 열 방향인데 책에서 이를 모호하게 풀어 설명하여 이해가 힘든 부분이 있었습니다.
+
+- 그룹 연산에서 agg() vs apply() vs transform() 세 함수의 차이를 설명하지 않고 섞어 사용하여 혼란스러운 점이 있었습니다. 
+
+    [agg() vs apply() vs transform() 참고](https://yganalyst.github.io/data_handling/Pd_13/#3-%ED%99%9C%EC%9A%A9%EB%8F%84%EA%B0%80-%EB%86%92%EC%9D%80-%EA%B3%A0%EA%B8%89-%EA%B7%B8%EB%A3%B9%EC%97%B0%EC%82%B0)
+
+
 
 ## 교재
 ![데이터 분석을 위한 판다스 입문](https://user-images.githubusercontent.com/69614150/90758238-ab8c2f00-e319-11ea-8c38-fb77c7e8d8c9.jpg)
