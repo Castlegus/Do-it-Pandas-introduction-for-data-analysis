@@ -16,7 +16,15 @@
 
 - 그룹 연산에서 agg() vs apply() vs transform() 세 함수의 차이를 설명하지 않고 섞어 사용하여 혼란스러운 점이 있었습니다. 
 
-    [agg() vs apply() vs transform() 참고](https://yganalyst.github.io/data_handling/Pd_13/#3-%ED%99%9C%EC%9A%A9%EB%8F%84%EA%B0%80-%EB%86%92%EC%9D%80-%EA%B3%A0%EA%B8%89-%EA%B7%B8%EB%A3%B9%EC%97%B0%EC%82%B0)
+#### 보충해서 공부하면 좋을 내용 참고
+
+   [agg() vs apply() vs transform()](https://yganalyst.github.io/data_handling/Pd_13/#3-%ED%99%9C%EC%9A%A9%EB%8F%84%EA%B0%80-%EB%86%92%EC%9D%80-%EA%B3%A0%EA%B8%89-%EA%B7%B8%EB%A3%B9%EC%97%B0%EC%82%B0)
+    
+   [agg() vs apply()](https://stackoverflow.com/questions/21828398/what-is-the-difference-between-pandas-agg-and-apply-function)
+    
+   [apply() vs transform()](https://stackoverflow.com/questions/27517425/apply-vs-transform-on-a-group-object)
+   
+   [shuffle() vs permute()](https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy)
 
 
 
